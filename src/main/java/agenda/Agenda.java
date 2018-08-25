@@ -5,9 +5,6 @@
  */
 package agenda;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import com.google.common.collect.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;

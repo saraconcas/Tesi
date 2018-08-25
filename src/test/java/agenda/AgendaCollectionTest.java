@@ -7,7 +7,6 @@ package agenda;
 
 import org.junit.*;
 import com.mongodb.MongoException;
-import java.net.UnknownHostException;
 import org.jongo.MongoCollection;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.*;
